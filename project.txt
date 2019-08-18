@@ -1,0 +1,5 @@
+101  ritu  12/08/19  f  sc  2012  2018  d/472,sec-20,rourkela  ritu_1  123
+102  sita  12/09/87  f  g  2018  2030  d/471,sec-20,rourkela  sita_2  123
+103  ram_sinha  27/08/95  m  st  2018  2089  d/479,sec-19,rourkela  ram_3  123
+104  sam  12/07/89  m  g  2012  2028  d/434,sec-22,rourkela  sam_4  456
+105  litu  23/07/89  m  g  2098  2198  d/467,sec-21,rourkela  litu_5  123
