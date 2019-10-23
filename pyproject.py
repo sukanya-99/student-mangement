@@ -17,7 +17,7 @@ def main():
      ch=input("Enter your choice")
      if ch == "1":
          passw=input("enter the admin password : ")#admin password=admin
-         if(passw=="admin"):
+         if(passw=="administrator"):
              print("Access granted","\n","welcome")
              menu()
      elif ch == "2":
